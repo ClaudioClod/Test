@@ -74,19 +74,5 @@ public class HPESANodeAttributesProcessor  extends AbstractProcessor{
         }
 
          return retValue;
-    }
-
-
-
-@Override
-public boolean process(Set<? extends TypeElement> annotations, RoundEnvironment roundEnv) {
-	// TODO Auto-generated method stub
-	return false;
-}
-    
-    
-     
-  
-        
-    
+    }     
 }
